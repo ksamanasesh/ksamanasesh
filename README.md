@@ -37,9 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ksamanasesh/ksamanasesh/output/snake.svg" alt="Snake animation" />
-
-###
