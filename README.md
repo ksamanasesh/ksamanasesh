@@ -2,11 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksamanasesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksamanasesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/jAzS2VUgF0yq6UBu7l/giphy.gif?cid=6c09b952sjyojuzi803avdk3l9u1msc5tbrkrb7g1u87eu60&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
